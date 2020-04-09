@@ -1,0 +1,15 @@
+.container{
+max-width: auto;
+margin: 0 auto;
+background:pink;
+font-size: 24px;
+padding: 25px; 
+
+}
+
+.parallax{ 
+background: url('../img/sld1.png') no-repeat center;
+background-size: cover;
+background-attachment: fixed;
+height:500px;
+}
